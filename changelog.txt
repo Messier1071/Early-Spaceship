@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 06. 29. 2024
+  Features:
+    - Moved the spaceship clamps closer to the spaceship and cargo rocket
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 06. 29. 2024
+  Features:
+    - Updated clamp recipe using proper fluid lubricant recipes (kept the old one just in case)
+
+
