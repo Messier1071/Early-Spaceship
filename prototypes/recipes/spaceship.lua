@@ -111,7 +111,7 @@ data:extend({
     energy_required = 30,
     ingredients = {
       {mod_prefix .. "heat-shielding", 10},
-      { mod_prefix .. "low-density-structure", 20 },
+      { "low-density-structure", 20 },
       { mod_prefix .. "steel-ingot", 6 },
       { "electric-engine-unit", 10 },
       { "lubricant-barrel", 1 },
@@ -128,7 +128,7 @@ data:extend({
   energy_required = 30,
   ingredients = {
     {mod_prefix .. "heat-shielding", 10},
-    { mod_prefix .. "low-density-structure", 20 },
+    { "low-density-structure", 20 },
     { mod_prefix .. "steel-ingot", 6 },
     { "electric-engine-unit", 10 },
     {type="fluid", name="lubricant", amount=25},
